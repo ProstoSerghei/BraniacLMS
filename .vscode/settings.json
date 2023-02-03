@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/serghei/djangoBasics/venv/bin/python3"
+    "python.pythonPath": "/home/serghei/djangoBasics/venv/bin/python3",
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordWrap": "on"
 }
